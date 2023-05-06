@@ -1,0 +1,16 @@
+{
+  "name": "learning-http-methods",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "promises.js",
+  "scripts": {
+    "db": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

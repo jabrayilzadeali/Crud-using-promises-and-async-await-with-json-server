@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "cw",
+      "email": "43543",
+      "number": "43",
+      "id": 4
+    },
+    {
+      "name": "dddddddddddd",
+      "email": "2343242",
+      "number": "12323",
+      "id": 6
+    },
+    {
+      "name": "423",
+      "email": "4234",
+      "number": "43543",
+      "id": 7
+    },
+    {
+      "name": "324324",
+      "email": "rewrwer",
+      "number": "342",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Consectetur adipiscing elit.",
+      "price": 19.99
+    }
+  ]
+}
