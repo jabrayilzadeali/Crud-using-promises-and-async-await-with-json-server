@@ -5,7 +5,7 @@
   "type": "module",
   "main": "promises.js",
   "scripts": {
-    "db": "json-server --watch db.json"
+    "db": "json-server --watch db/db.json"
   },
   "keywords": [],
   "author": "",
