@@ -5,12 +5,14 @@
   "type": "module",
   "main": "promises.js",
   "scripts": {
-    "db": "json-server --watch db/db.json"
+    "db": "json-server --watch db/db.json",
+    "server": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.3"
   }
 }
